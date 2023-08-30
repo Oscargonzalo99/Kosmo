@@ -1,4 +1,4 @@
-# Kosmo - retro
+# Kosmo - Reto
 Creacion de API REST que recibe una lista de oraciones en español y devuelve una lista de las entidades nombras identificadas en cada oracion
 
 # Script de extracción de entidades nombradas utilizando spaCy y Flask
